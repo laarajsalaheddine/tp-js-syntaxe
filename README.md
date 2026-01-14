@@ -6,12 +6,12 @@ Solutions des exercices de programmation JavaScript du cours M105 (Programmation
 
 Ce répertoire contient les solutions complétées de divers exercices JavaScript, organisés par module et numéro d'exercice :
 
-- **s1e2.js** - Solution 1, Exercice 2 : Logique de tarification conditionnelle (calcul de réduction basé sur l'âge et le jour)
-- **s2e1.js** - Solution 2, Exercice 1 : Opérations arithmétiques de base (somme, différence, produit, division)
-- **s2e2.js** - Solution 2, Exercice 2
-- **s2e3.js** - Solution 2, Exercice 3
-- **s2e4.js** - Solution 2, Exercice 4
-- **S2ex3.js** - Solution alternative pour l'exercice 3
+- **s1e2.js** - Série 1, Exercice 2 : Logique de tarification conditionnelle (calcul de réduction basé sur l'âge et le jour)
+- **s2e1.js** - Série 2, Exercice 1 : Opérations arithmétiques de base (somme, différence, produit, division)
+- **s2e2.js** - Série 2, Exercice 2
+- **s2e3.js** - Série 2, Exercice 3
+- **s2e4.js** - Série 2, Exercice 4
+- **S2ex3.js** - Série alternative pour l'exercice 3
 - **test.html** - Fichier de test avec JavaScript intégré (fonction de somme des nombres pairs)
 - **dolly.html** - Fichier HTML avec gestion d'inventaire de produits utilisant des tableaux et des invites
 

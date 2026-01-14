@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- 
+        <script src="s1e2.js"></script>
+        <script src="s2e1.js"></script>
+        <script src="s2e2.js"></script>
+        <script src="s2ex3.js"></script>
+    -->
+    <!-- 
+    <script src="s2e4.js"></script> -->
+    <script>
+        function sumEvens(n) {
+            console.log(typeof n)
+            let somme = 0;
+            if (Number.isInteger(n) && n > 0) {
+                for (let i = 0; i <= n; i++) {
+                    if (i % 2 === 0) {
+                        somme += i
+                    }
+                }
+                return somme
+            }
+            console.error(`le nombre n est pas un entier ${n}:)`)
+            return 0
+        }
+
+        let nombre = prompt("Entrez un nombre entier positif:")
+        let sommePairs = sumEvens(parseInt(nombre))
+        console.log(sommePairs)
+
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
